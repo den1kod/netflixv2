@@ -103,4 +103,20 @@ button:hover {
   margin: 5px;
   font-size: 20px;
   }
+  .hero {
+    padding: 30px 15px;
+  }
+  .hero h2 {
+    font-size: 22px;
+  }
+  .hero p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .movie-list {
+    grid-template-columns: 1fr;
+  }
+  .movie iframe {
+    height: 180px;
+  }
 }
